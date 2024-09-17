@@ -1,6 +1,6 @@
 name: device_user_agent
 description: Flutter plugin to build user agent containing device information.
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/AcmeSoftwareLLC/device_user_agent
 homepage: https://acmesoftware.com
 
@@ -9,15 +9,13 @@ environment:
   flutter: '>=3.19.0'
 
 dependencies:
-  device_info_plus: ^10.1.0
+  device_info_plus: ^10.1.2
   flutter:
     sdk: flutter
-  package_info_plus: ^8.0.0
-  web: ^0.5.1
+  package_info_plus: ^8.0.2
+  web: ^1.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.2
-
-flutter:
+  flutter_lints: ^4.0.0
