@@ -1,5 +1,9 @@
 # Changelog
 ## 0.1.2
+**Oct 6, 2025**
+- Bumps dependencies.
+
+## 0.1.2
 **Sep 17, 2024**
 - Dependency updates.
 
