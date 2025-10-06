@@ -1,5 +1,5 @@
 # Changelog
-## 0.1.2
+## 0.1.3
 **Oct 6, 2025**
 - Bumps dependencies.
 
